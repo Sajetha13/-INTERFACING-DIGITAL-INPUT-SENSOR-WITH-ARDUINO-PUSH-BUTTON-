@@ -105,6 +105,7 @@ void loop()
 
 
 ## OUTPUT OF SIMULATION :
+![image](https://github.com/Sajetha13/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/138849316/66f91019-4a25-4a1e-b7b7-249a7f231c6d)
 
-[My image](username.github.com/repository/img/image.jpg)
+![image](https://github.com/Sajetha13/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/138849316/4b011825-0492-4604-801f-304d98a8edcf)
 
