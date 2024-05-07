@@ -109,3 +109,6 @@ void loop()
 ![image](https://github.com/Sajetha13/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/138849316/8edbb6bf-905a-4302-8739-9f01dc2d19b4)
 
 
+## RESULT:
+The interfacing of the digital pin was executed successfully.
+
